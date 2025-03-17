@@ -6,3 +6,5 @@
 - Generate detailed expense summaries  
 - User-friendly and intuitive interface  
 - Real-time updates for seamless collaboration  
+
+
